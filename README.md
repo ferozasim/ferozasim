@@ -1,9 +1,3 @@
-<!--
-  Mohammed Asim Feroz · GitHub Profile README  (repo: ferozasim/ferozasim)
-  IMPORTANT: paste the RAW text of this file (not a copy from a preview).
-  Everything here is HTML so it survives pasting into GitHub's editor.
--->
-
 <a href="https://github.com/ferozasim">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Mohammed%20Asim%20Feroz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Frontend%20%2B%20Backend&descSize=16&descAlignY=58" width="100%" alt="header"/>
 </a>
