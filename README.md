@@ -2,27 +2,41 @@
 
 
 Readme · MD
-<!-- ════════════════════════════════════════════════════════════════ Mohammed Asim Feroz · GitHub Profile README How to use: create a repo named exactly ferozasim (same as your username), add this file as README.md, commit. It shows on your profile. ════════════════════════════════════════════════════════════════ --> <a href="https://github.com/ferozasim"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Mohammed%20Asim%20Feroz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20JS%20Developer%20%7C%20Frontend%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=16&descAlignY=58" width="100%" alt="header"/> </a> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+clean%2C+fast+user+interfaces;React+%7C+JavaScript+%7C+Frontend+Engineering;Turning+ideas+into+pixel-perfect+products" alt="typing" /> <br/>
+<!-- ════════════════════════════════════════════════════════════════ Mohammed Asim Feroz · GitHub Profile README Repo: ferozasim/ferozasim → README.md (shows on your profile) To update: edit README.md, select all, paste this in, Commit changes. ════════════════════════════════════════════════════════════════ --> <a href="https://github.com/ferozasim"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Mohammed%20Asim%20Feroz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Frontend%20%2B%20Backend&descSize=16&descAlignY=58" width="100%" alt="header"/> </a> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;MongoDB+%C2%B7+Express+%C2%B7+React+%C2%B7+Node.js;Building+end-to-end+web+applications;From+pixel-perfect+UI+to+scalable+APIs" alt="typing" /> <br/>
 <a href="https://www.linkedin.com/in/mdasimferoz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> <a href="https://github.com/ferozasim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a> <img src="https://img.shields.io/badge/Hyderabad,%20India-38BDF8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/> <img src="https://komarev.com/ghpvc/?username=ferozasim&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 ts
 const asim = {
-  role: "React JS Developer",
+  role: "Full Stack Developer",
+  stack: "MERN — MongoDB · Express · React · Node.js",
   company: "ArboId",
   location: "Hyderabad, India",
-  focus: ["Frontend Engineering", "UI/UX", "Web Performance"],
-  currentlyLearning: "Backend — the 90 Days Challenge",
+  focus: ["Frontend Engineering", "REST APIs", "Databases", "UI/UX"],
   mindset: "Lifelong Learner 🚀",
 };
-🔭  Crafting responsive, component-driven interfaces with React & JavaScript
-🌱  Leveling up on the backend to become a well-rounded full-stack developer
-🎯  I care about clean code, reusable components, and smooth user experiences
-💬  Ask me about React, frontend architecture, or the JS ecosystem
+💻  I build end-to-end web apps — responsive React frontends backed by Node/Express APIs
+🗄️  Comfortable across the MERN stack: from UI components to routes, controllers & MongoDB models
+🎯  Focused on clean code, reusable components, and performant, scalable backends
+💬  Ask me about React, JavaScript, Node.js, Express, or full-stack architecture
 🛠️ Tech Stack
 <div align="center">
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+Languages
+
+Show Image Show Image Show Image Show Image
+
+Frontend
+
+Show Image Show Image Show Image Show Image
+
+Backend & Database
+
+Show Image Show Image Show Image Show Image
+
+Tools
+
+Show Image Show Image Show Image Show Image Show Image
 
 </div>
 📊 GitHub Analytics
