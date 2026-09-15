@@ -16,29 +16,31 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="divider"/>
-
 <h2>👨‍💻 About Me</h2>
 
 <table>
 <tr>
 <td valign="top" width="58%">
 
-<pre><code>const asim = {<br>&nbsp;&nbsp;role:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Full Stack Developer",<br>&nbsp;&nbsp;stack:&nbsp;&nbsp;&nbsp;&nbsp;"MERN (Mongo · Express · React · Node)",<br>&nbsp;&nbsp;company:&nbsp;&nbsp;"ArboId",<br>&nbsp;&nbsp;location:&nbsp;"Hyderabad, India",<br>&nbsp;&nbsp;focus:&nbsp;&nbsp;&nbsp;&nbsp;["Frontend", "REST APIs", "Databases", "UI/UX"],<br>&nbsp;&nbsp;mindset:&nbsp;&nbsp;"Lifelong Learner 🚀",<br>};</code></pre>
+<table>
+  <tr><td>🧑‍💻 <b>Role</b></td><td><code>Full Stack Developer</code></td></tr>
+  <tr><td>⚙️ <b>Stack</b></td><td><code>MERN · Mongo · Express · React · Node</code></td></tr>
+  <tr><td>🏢 <b>Company</b></td><td><code>ArboId</code></td></tr>
+  <tr><td>📍 <b>Location</b></td><td><code>Hyderabad, India</code></td></tr>
+  <tr><td>🎯 <b>Focus</b></td><td><code>Frontend · REST APIs · Databases · UI/UX</code></td></tr>
+</table>
 
 <ul>
-  <li>💻 &nbsp;I build <b>end-to-end web apps</b> — React frontends backed by Node/Express APIs</li>
-  <li>🗄️ &nbsp;Full <b>MERN stack</b>: from UI components to routes, controllers &amp; MongoDB models</li>
-  <li>🎯 &nbsp;I care about clean code, reusable components &amp; scalable backends</li>
-  <li>💬 &nbsp;Ask me about <b>React, JavaScript, Node.js, Express</b> or full-stack architecture</li>
+  <li>💻 I build <b>end-to-end web apps</b> — React frontends backed by Node/Express APIs</li>
+  <li>🗄️ Full <b>MERN stack</b>: from UI components to routes, controllers &amp; MongoDB models</li>
+  <li>🎯 I care about clean code, reusable components &amp; scalable backends</li>
+  <li>💬 Ask me about <b>React, JavaScript, Node.js, Express</b> or full-stack architecture</li>
 </ul>
 
 </td>
 <td valign="top" width="42%" align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150" alt="react"/>
-<br/><br/>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="coding"/>
-
 </td>
 </tr>
 </table>
