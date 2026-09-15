@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**ferozasim/ferozasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Readme · MD
+<!-- ════════════════════════════════════════════════════════════════ Mohammed Asim Feroz · GitHub Profile README How to use: create a repo named exactly ferozasim (same as your username), add this file as README.md, commit. It shows on your profile. ════════════════════════════════════════════════════════════════ --> <a href="https://github.com/ferozasim"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Mohammed%20Asim%20Feroz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20JS%20Developer%20%7C%20Frontend%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=16&descAlignY=58" width="100%" alt="header"/> </a> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+clean%2C+fast+user+interfaces;React+%7C+JavaScript+%7C+Frontend+Engineering;Turning+ideas+into+pixel-perfect+products" alt="typing" /> <br/>
+<a href="https://www.linkedin.com/in/mdasimferoz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> <a href="https://github.com/ferozasim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a> <img src="https://img.shields.io/badge/Hyderabad,%20India-38BDF8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/> <img src="https://komarev.com/ghpvc/?username=ferozasim&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="views"/>
+
+</div>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+ts
+const asim = {
+  role: "React JS Developer",
+  company: "ArboId",
+  location: "Hyderabad, India",
+  focus: ["Frontend Engineering", "UI/UX", "Web Performance"],
+  currentlyLearning: "Backend — the 90 Days Challenge",
+  mindset: "Lifelong Learner 🚀",
+};
+🔭  Crafting responsive, component-driven interfaces with React & JavaScript
+🌱  Leveling up on the backend to become a well-rounded full-stack developer
+🎯  I care about clean code, reusable components, and smooth user experiences
+💬  Ask me about React, frontend architecture, or the JS ecosystem
+🛠️ Tech Stack
+<div align="center">
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+</div>
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferozasim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" alt="stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferozasim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8" alt="langs" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=ferozasim&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="streak" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ferozasim&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" /> </div>
+<div align="center">
+✨ "First, solve the problem. Then, write the code." ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a5f,100:0f172a&height=120&section=footer" width="100%" alt="footer"/> </div>
